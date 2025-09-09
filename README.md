@@ -160,3 +160,4 @@ IGANI-PDF currently supports 40 languages!
 - [Contribution Guidelines](CONTRIBUTING.md)
 - [Translation Guide (How to add custom languages)](devGuide/HowToAddNewLanguage.md)
 - [Developer Guide](devGuide/DeveloperGuide.md)
+# iganis-pdfs
